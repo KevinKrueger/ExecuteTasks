@@ -34,19 +34,19 @@ namespace ExecuteTasks
     class CalculationTask
     {
         // FUNCTIONS
-        public void InitTask(Task tour)
+        public void InitTask(Task task)
         {
-           StartTask(tour);
+           StartTask(task);
         }
 
-        private void StartTask(Task tour)
+        private void StartTask(Task task)
         {
-            if(tour.isTime)
+            if(task.isTime)
                 System.Threading.Thread.Sleep(5000);
             else
                 System.Threading.Thread.Sleep(10000);
 
-            Console.WriteLine("Start Task: " + tour.TaskID);
+            Console.WriteLine("Start Task: " + task.TaskID);
             
         }
     }
