@@ -17,7 +17,7 @@ namespace ExecuteTasks
               
                 CalculationTask  task = new CalculationTask();
                 task.InitTask(item);
-                Console.WriteLine("Thread={0}, item={1}, TourID={2}", System.Threading.Thread.CurrentThread.ManagedThreadId, item, ((Task)item).TaskID);
+                Console.WriteLine("Thread={0}, item={1}, TaskID={2}", System.Threading.Thread.CurrentThread.ManagedThreadId, item, ((Task)item).TaskID);
                 return localID;
             },
             (localID) => System.Threading.Interlocked.Add(ref count, localID));
@@ -46,7 +46,7 @@ namespace ExecuteTasks
             else
                 System.Threading.Thread.Sleep(10000);
 
-            Console.WriteLine("Plan Tour: " + tour.TaskID);
+            Console.WriteLine("Start Task: " + tour.TaskID);
             
         }
     }
