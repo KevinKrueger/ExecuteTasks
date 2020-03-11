@@ -1,0 +1,10 @@
+/Users/kevinkruger/Desktop/Projects/C#/ExecuteTasks/bin/Debug/netcoreapp3.1/ExecuteTasks.deps.json
+/Users/kevinkruger/Desktop/Projects/C#/ExecuteTasks/bin/Debug/netcoreapp3.1/ExecuteTasks.runtimeconfig.json
+/Users/kevinkruger/Desktop/Projects/C#/ExecuteTasks/bin/Debug/netcoreapp3.1/ExecuteTasks.runtimeconfig.dev.json
+/Users/kevinkruger/Desktop/Projects/C#/ExecuteTasks/bin/Debug/netcoreapp3.1/ExecuteTasks.dll
+/Users/kevinkruger/Desktop/Projects/C#/ExecuteTasks/bin/Debug/netcoreapp3.1/ExecuteTasks.pdb
+/Users/kevinkruger/Desktop/Projects/C#/ExecuteTasks/obj/Debug/netcoreapp3.1/ExecuteTasks.csprojAssemblyReference.cache
+/Users/kevinkruger/Desktop/Projects/C#/ExecuteTasks/obj/Debug/netcoreapp3.1/ExecuteTasks.AssemblyInfoInputs.cache
+/Users/kevinkruger/Desktop/Projects/C#/ExecuteTasks/obj/Debug/netcoreapp3.1/ExecuteTasks.AssemblyInfo.cs
+/Users/kevinkruger/Desktop/Projects/C#/ExecuteTasks/obj/Debug/netcoreapp3.1/ExecuteTasks.dll
+/Users/kevinkruger/Desktop/Projects/C#/ExecuteTasks/obj/Debug/netcoreapp3.1/ExecuteTasks.pdb
